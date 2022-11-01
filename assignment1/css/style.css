@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    padding:0;
+
+}
+
+
+ .first{
+     margin:50px;
+ }
+ img{
+    width: 200px;
+    height: 250px;
+    margin: 20px 0px 10px 40px;
+    border-radius: 20px;
+
+     
+ }
+h1{
+    font-weight:900;
+}
+ 
+.log img {
+    margin-top:2px;
+    width:100px;
+    height: auto;
+    margin: 3px;
+    margin-right: 50px;
+   
+    
+}
+#h1{
+    margin: 10px 0px 10px 30px;
+    color:dodgerblue;
+    
+    }
