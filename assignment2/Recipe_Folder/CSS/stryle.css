@@ -1,0 +1,96 @@
+*{
+    margin:0;
+    padding:0;
+}
+ .nav{
+    margin:20px 0px 20px 25px;
+    
+    
+}
+ul{
+text-decoration: none;
+ 
+}
+.header{
+    color:rgba(189, 183, 107, 0.905);
+    background-color:rgba(192, 192, 192, 0.208);
+    font-size:40px;
+     margin:20px 10px 20px 25px;
+     text-decoration:1px underline;
+
+}
+.h1{
+    
+   margin-left: 270px; 
+}
+.FirstImage{
+    margin-left: 20px;
+}
+.list1{
+    margin:10px 0px;
+}
+.hr{
+   margin-right:10px;
+}
+.list{
+    margin:10px 0px 10px 70px;   
+}
+.hr2{
+    margin-left: 10px;
+}
+
+.list-dir li{
+    margin-left:110px;
+     list-style:circle;
+    
+}
+.list-dir2{
+    margin-left: 70px;
+    list-style: circle;
+}
+#dir{
+    margin-left: 40px;
+
+}
+#dir2{
+    margin-left: 40px;
+
+}
+
+#p{
+ margin:10px 0px;
+ margin-left:-10px;
+}
+
+.user{
+    background-color:khaki;
+    margin:12px 0px 10px 40px;
+}
+.address{
+    margin-top:15px;
+    margin-left: 5%;
+}
+#footer{
+    color:rgba(189, 183, 107, 0.905);
+    text-decoration: underline;
+    margin-left:4% ;
+}
+
+.footer-Imag{
+    margin-left:5%;
+}
+.copyright{
+   margin-left:5%;
+margin-top:10px;
+margin-bottom:10px;
+font-family:serif;
+}
+ .spa1{
+    margin-left:55px
+} 
+ .spa2{
+    margin-left:99px
+} 
+ .spa3{
+    margin-left:161px
+} 
